@@ -1,0 +1,9 @@
+/* external-css.css */
+
+div {   
+        background-color: red;
+        color: white;
+        font-size: 36px;
+        font-weight: bold;
+        text-align: center;
+    }
